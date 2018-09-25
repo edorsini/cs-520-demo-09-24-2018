@@ -4,8 +4,8 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("This is the start of my program");
 
-		Animal Ed = new Animal("Tiger", 4);
-		Animal Amanda = new Animal("Leopard", 7);
+		Animal Ed = new Bear("Tiger", 4);
+		Animal Amanda = new Bear("Leopard", 7);
 		Ed.run(); // running an instance method
 
 		// get instance variable value

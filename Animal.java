@@ -1,8 +1,10 @@
-public class Animal {
+public abstract class Animal {
 	// instance variables
 	private int numberofLegs;
 	private String species;
 	static String color = "yellow";
+
+	public abstract int bark(); // this is a contract
 
 	// setter
 	public void setNumberOfLegs(int value) {
