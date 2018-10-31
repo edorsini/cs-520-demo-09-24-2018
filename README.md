@@ -8,3 +8,7 @@
 
 - Strings, Exception Handling, File I/O
 
+- Arrays
+
+- Collections (Lists, Sets, and Maps)
+
